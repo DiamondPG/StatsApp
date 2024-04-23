@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instalation
+title: Installation
 nav_order: 2
 ---
 
