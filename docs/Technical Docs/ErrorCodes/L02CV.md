@@ -8,7 +8,7 @@ grand_parent: Technical Documentation
 
 # L02CV
 
-This error occurs in the `CheckVersion()` function in the launcher.
+This error occurs in the `CheckVersion()` function in the launcher. This is a general error for the function failing.
 
 ## Probable Causes
 
