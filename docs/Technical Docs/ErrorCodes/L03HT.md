@@ -14,11 +14,11 @@ Error occurs in the `SetHomeTeams()` function.
 
 ## Probable Causes
 
-- Missing directory at `{Documents Folder}\StatsApp\Home Teams`
+- **Missing directory at `{Documents Folder}\StatsApp\Home Teams`**
 
 Add a new folder at that path.
 
-- No team file in the `{Documents Folder}\StatsApp\Home Teams` path.
+- **No team file in the `{Documents Folder}\StatsApp\Home Teams` path.**
 
 Add at least one team file to the folder.
 
