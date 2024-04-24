@@ -13,10 +13,10 @@ This error occurs in the `CheckVersion()` function in the launcher. This is a ge
 
 ## Probable Causes
 
-- No internet connection
+- **No internet connection**
 
 Connect to the internet in order to check for updates correctly.
 
-- Server-side issue
+- **Server-side issue**
 
 An error on the server-side is causing the update check to fail.
