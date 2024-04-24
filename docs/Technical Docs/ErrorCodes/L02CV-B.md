@@ -11,14 +11,14 @@ grand_parent: Error Codes
 This error occurs in the second section of the `CheckVersion()` function. This is an error cross-checking the version number with the github releases. Exception will detail the issue.
 
 ## Probable Causes
-- No Internet Connection
+- **No Internet Connection**
 
 Reconnect to the internet so that the version check can work correctly.
 
-- Server-side Error
+- **Server-side Error**
 
 An error on the server-side can cause issues with this version check.
 
-- Authentication failed
+- **Authentication failed**
 
 Authentication with Github's servers failed.
