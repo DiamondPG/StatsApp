@@ -16,4 +16,4 @@ This error code shows up during the `InitializeSettings()` function in the launc
 The application cannot access the settings file due to a lack of permission.
 
 - File Not Found
-The application cannot find the file inthe filepath: `%appdata%\DiamondPG\StatsApp\settings.json`.
+The application cannot find the file in the filepath: `%appdata%\DiamondPG\StatsApp\settings.json`.
