@@ -9,7 +9,7 @@ grand_parent: Technical Documentation
 # L04LF-A - Error Setting Home Path
 > Accompanied by an exception
 
-Error occurs when an invalid home team is selected.
+Error occurs in the first section of the `Launch()` function. Error occurs when an invalid home team is selected. 
 
 ## Probable Causes
 
