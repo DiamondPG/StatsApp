@@ -13,10 +13,10 @@ Error occurs in the first section of the `Launch()` function. Error occurs when 
 
 ## Probable Causes
 
-- Invalid File Name in `Home Team` dropdown box.
+- **Invalid File Name in `Home Team` dropdown box.**
 
 Can occur if the filename initially pulled for the dropdown box is not the same as the file in the `{Documents Folder}\StatsApp\Home Teams\` folder.
 
-- File not found
+- **File not found**
 
 Can occur if the selected home team file is no longer in the `{Documents Folder}\StatsApp\Home Teams\` folder.
