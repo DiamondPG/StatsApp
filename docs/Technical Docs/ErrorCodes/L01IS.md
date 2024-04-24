@@ -1,6 +1,6 @@
 ---
 layout: default
-title: L01IS: Error during settings initialization
+title: L01IS - Error during settings initialization
 nav_order: 1
 parent: Error Codes
 ---
