@@ -8,7 +8,7 @@ grand_parent: Technical Documentation
 
 # L01IS
 
-This error code shows up during the `InitializeSettings()` function in the launcher. An exception is accompanied with this error.
+This error code occurs during the `InitializeSettings()` function in the launcher. An exception is accompanied with this error.
 
 ## Probable Causes
 
