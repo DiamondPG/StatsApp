@@ -12,8 +12,10 @@ This error code occurs during the `InitializeSettings()` function in the launche
 
 ## Probable Causes
 
-- File permissions insufficient
+- **File permissions insufficient**
+
 The application cannot access the settings file due to a lack of permission.
 
-- File Not Found
+- **File Not Found**
+
 The application cannot find the file in the filepath: `%appdata%\DiamondPG\StatsApp\settings.json`.
