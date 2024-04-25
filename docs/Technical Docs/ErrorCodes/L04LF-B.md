@@ -7,7 +7,7 @@ grand_parent: Technical Documentation
 ---
 
 # L04LF-B - Error Saving Paths
-> NOT accompanied by an exception.
+> Accompanied by an exception.
 
 The error occurs when there is an error saving paths to a temp file.
 
