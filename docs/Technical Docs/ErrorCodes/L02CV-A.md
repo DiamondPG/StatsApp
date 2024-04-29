@@ -2,8 +2,8 @@
 layout: default
 title: L02CV-A
 nav_order: 1
-parent: L02CV
-grand_parent: Error Codes
+parent: Error Codes
+grand_parent: Technical Documentation
 ---
 
 # L02CV-A - Error accessing private paste
