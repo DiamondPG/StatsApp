@@ -9,4 +9,4 @@ has_children: true
 
 Here is the archive of all release notes issued for StatsApp.
 
-Current Version: v0.8.4
+Current Version: v0.8.12pb
