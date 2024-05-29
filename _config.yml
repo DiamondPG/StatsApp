@@ -5,4 +5,4 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://statsapp.openstone.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 aux_links:
-  Home: https://diamondpg.github.io
+  Home: https://statsapp.openstone.dev
