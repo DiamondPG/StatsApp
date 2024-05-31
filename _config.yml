@@ -3,7 +3,7 @@ description: A Simple Stat-Keeping Application
 theme: just-the-docs
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://statsapp.openstone.dev # the base hostname & protocol for your site, e.g. http://example.com
+url: http://statsapp.openstone.dev # the base hostname & protocol for your site, e.g. http://example.com
 
 aux_links:
   Home: https://statsapp.openstone.dev
