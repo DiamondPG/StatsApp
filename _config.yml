@@ -11,6 +11,11 @@ aux_links:
 ga_tracking: G-8T9FMBCQHB
 ga_tracking_anonymize_ip: true
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 cookieconsent:
   style: "dark"
   notificationHead: "This web site uses cookies"
