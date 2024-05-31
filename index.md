@@ -10,7 +10,7 @@ A modern stat-keeping application for high-school sports.
 
 
 {: .warning }
-> NOTE: This documentation is not complete and is subject to change. Information in this documentation may also be incorrect as the software version may not be the same as the one the documentation was written upon. Some errors may also not be in the current public version of StatsApp.
+NOTE: This documentation is not complete and is subject to change. Information in this documentation may also be incorrect as the software version may not be the same as the one the documentation was written upon. Some errors may also not be in the current public version of StatsApp.
 
 
 #### Why StatsApp?
