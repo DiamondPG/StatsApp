@@ -1,7 +1,7 @@
 title: StatsApp
 description: A Simple Stat-Keeping Application
 theme: just-the-docs
-color_scheme: dark
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://statsapp.openstone.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,8 +10,20 @@ aux_links:
 
 ga_tracking: G-8T9FMBCQHB
 ga_tracking_anonymize_ip: true
-
+color_scheme: dark
+callouts_level: quiet # or loud
 callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
   warning:
     title: Warning
     color: red
