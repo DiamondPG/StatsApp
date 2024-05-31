@@ -8,5 +8,5 @@ url: "https://statsapp.openstone.dev" # the base hostname & protocol for your si
 aux_links:
   Home: https://statsapp.openstone.dev
 
-ga_tracking: G-2RD0PQ2Q6T
+ga_tracking: G-8T9FMBCQHB
 ga_tracking_anonymize_ip: true
