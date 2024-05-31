@@ -10,3 +10,39 @@ aux_links:
 
 ga_tracking: G-8T9FMBCQHB
 ga_tracking_anonymize_ip: true
+
+cookieconsent:
+  style: "dark"
+  notificationHead: "This web site uses cookies"
+  notificationText:
+    We use cookies for providing our services on this page. 
+    While some of them are necessary, others help us to improve our online offering and operate it economically. 
+    Accept the optional cookies or reject them by clicking on the \"Accept Only Selected\" button. 
+    These settings can be revoked at any time. 
+    For more information please refer to our <a href=\"/datapolicy\">data policy</a>.
+    
+  btnAcceptAll: "Accept All"
+  btnAcceptSelected: "Accept Only Selected"
+  btnMore: "More"
+  cookies:
+    -
+      name: ccb_necessary
+      title: "Essential"
+      description: "Essential cookies enable basic functions and are necessary for the proper functioning of the website."
+      expirydays: 365
+      disabled: true
+      allowed: true
+    -
+      name: ccb_analytics
+      title: "Statistic"
+      description: "Statistics cookies help to understand how visitors use websites by collecting and reporting information anonymously."
+      expirydays: 365
+      disabled: false
+      allowed: false
+    -
+      name: ccb_advertising
+      title: "Advertising"
+      description: "Advertising cookies are used to display personalized advertising and to measure the effectiveness of advertising campaigns."
+      expirydays: 365
+      disabled: false
+      allowed: false
