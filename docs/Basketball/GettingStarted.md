@@ -22,7 +22,9 @@ Click on the first button, labeled "Away Team". This will prompt the user to sel
 
 In the `Sport` dropdown box, select basketball.
 (Image here)
-> NOTE: This is currently the only option.
+
+{: .note }
+> This is currently the only option.
 
 In the Home Team dropdown box, select a home team file that was either bundled with the application or one you created.
 
