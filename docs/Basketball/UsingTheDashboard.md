@@ -20,3 +20,10 @@ In the middle of the screen is a wall of text containing the best players in tha
 ## The Score and Team Names
 
 At the top of the middle section is the cumulative score of both teams. This score can be used to easily check if you have missed something on the court or just as a reference for how bad the other team is losing (knock on wood). The team names are associated with their half of the screen and can be edited in the `Edit` menu.
+
+## Keeping Stats
+
+It is now time to do what the application was designed for. Let's keep some stats! 
+
+{: .warning }
+There is currently a bug where an item has to be selected in one of the player lists in order to use a keybind. A patch is planned to be rolled out with the next update.
