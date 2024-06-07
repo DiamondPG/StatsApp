@@ -25,10 +25,10 @@ In the `Sport` dropdown box, select basketball.
 
 
 {: .opaque }
-> <div markdown="block">
-> {: .note }
-> This is currently the only option.
-> </div>
+<div markdown="block">
+{: .note }
+This is currently the only option.
+</div>
 
 In the Home Team dropdown box, select a home team file that was either bundled with the application or one you created.
 
