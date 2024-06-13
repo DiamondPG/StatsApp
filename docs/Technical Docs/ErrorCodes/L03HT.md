@@ -6,7 +6,7 @@ parent: Error Codes
 grand_parent: Technical Documentation
 ---
 
-# LO3HT - Home Team Directory Not Found
+# L03HT - Home Team Directory Not Found
 
 Error occurs in the `SetHomeTeams()` function.
 
