@@ -6,7 +6,7 @@ nav_order: 2
 
 # How to Install StatsApp
 
-1. Installing StatsApp is simple. Just download the `StatsApp.zip` file from the latest version linked [here](https://github.com/DiamondPG/StatsApp/releases/latest).
+1. Installing StatsApp is simple. Just download the `StatsApp.zip` file from the latest version linked [here](https://github.com/DiamondPG/StatsApp/releases).
 2. Run the application.
 > NOTE: THIS APPLICATION IS NOT SIGNED. This means Windows will show an unknown publisher message when the app launches. Click Run Anyway to continue installing StatsApp. This window may show again after the application launches.
 3. Follow any instructions given by the installer.
