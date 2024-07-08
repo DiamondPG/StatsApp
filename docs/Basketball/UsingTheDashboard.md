@@ -46,6 +46,9 @@ Once the player identifier is entered, the stat will be entered into the player'
 ## Default Keybinds
 
 `F1`: Add a Point
+
 `F2`: Add 2 Points
+
 `F3`: Add 3 Points
+
 `F4`: Add Foul
